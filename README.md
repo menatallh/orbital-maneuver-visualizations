@@ -23,15 +23,6 @@ Perfect for students, educators, and spaceflight enthusiasts who want to explore
 
 ---
 
-## 🖥️ Screenshots
-
-*(Replace these with actual screenshots after running the app.)*
-
-![Hohmann transfer](images/hohmann_screenshot.png)  
-![Plane change](images/plane_change_screenshot.png)  
-![Bi-elliptic transfer](images/bielliptic_screenshot.png)
-
----
 
 ## 📦 Installation
 
